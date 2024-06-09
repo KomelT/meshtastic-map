@@ -1,0 +1,20 @@
+{
+  "name": "mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.15.0",
+    "mqtt": "^5.7.0",
+    "protobufjs": "^7.3.0"
+  },
+  "devDependencies": {
+    "prisma": "^5.15.0"
+  }
+}
